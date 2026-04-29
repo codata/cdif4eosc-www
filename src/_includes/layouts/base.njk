@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | CDIF4EOSC</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | url }}">
+</head>
+<body>
+  <header class="main-header">
+    <div class="container header-content">
+      <div class="logo-area">
+        <img src="{{ "/assets/images/cdif4eosc_logo.png" | url }}" alt="CDIF4EOSC Logo" class="site-logo">
+      </div>
+
+      <input type="checkbox" id="nav-toggle" class="nav-toggle">
+      <label for="nav-toggle" class="nav-toggle-label">
+        <span></span>
+      </label>
+
+      <nav class="nav-links">
+        <a href="{{ "#about" | url }}">Project Overview</a>
+        <a href="{{ "#consortium" | url }}">Consortium</a>
+        <a href="{{ "#work-packages" | url }}">Work Packages</a>
+        <a href="{{ "#resources" | url }}">Resources</a>
+        <a href="{{ "#news" | url }}">News</a>
+        <a href="https://codata.org/about-codata/contact-us/" target="_blank">Contact Us</a>
+      </nav>
+
+      <div class="header-actions">
+        <a href="https://codata.org/" target="_blank" class="partner-logo-link">
+          <img src="{{ "/assets/images/codata_logo.png" | url }}" alt="CODATA Logo" class="partner-logo">
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer style="background: #050a1a; color: white; padding: var(--spacing-xl) 0; font-size: 0.9rem;">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: var(--spacing-xl);">
+        <div>
+          <h4 style="color: white; margin-bottom: var(--spacing-md);">CDIF 4 EOSC</h4>
+          <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem;">CDIF4EOSC is closely linked with the CODATA initiative "Making Data Work for Cross-Domain Grand Challenges", which is part of the International Science Council (ISC) Action Plan.</p>
+          <a href="#" style="color: var(--color-secondary); text-decoration: none;">Main CODATA Website ↗</a>
+        </div>
+        <div>
+          <h4 style="color: white; margin-bottom: var(--spacing-md);">RESOURCES</h4>
+          <ul style="list-style: none; padding: 0; color: rgba(255,255,255,0.6);">
+            <li style="margin-bottom: 8px;">Main CODATA Website</li>
+            <li style="margin-bottom: 8px;">Documentation</li>
+            <li style="margin-bottom: 8px;">Framework Guidelines</li>
+          </ul>
+        </div>
+        <div>
+          <h4 style="color: white; margin-bottom: var(--spacing-md);">LEGAL</h4>
+          <ul style="list-style: none; padding: 0; color: rgba(255,255,255,0.6);">
+            <li style="margin-bottom: 8px;">Privacy Policy</li>
+            <li style="margin-bottom: 8px;">Terms of Service</li>
+            <li style="margin-bottom: 8px;">Accessibility</li>
+          </ul>
+        </div>
+        <div style="text-align: right; color: rgba(255,255,255,0.4); font-size: 0.75rem;">
+          <p>© 2026 CDIF4EOSC Initiative. All rights reserved.</p>
+          <p>Horizon Europe GA: 101137021</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

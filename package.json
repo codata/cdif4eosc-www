@@ -1,0 +1,28 @@
+{
+  "name": "cdif4eosc-www",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "ELEVENTY_ENV=production npx @11ty/eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codata/cdif4eosc-www.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/codata/cdif4eosc-www/issues"
+  },
+  "homepage": "https://github.com/codata/cdif4eosc-www#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "luxon": "^3.7.2",
+    "markdown-it": "^14.1.1"
+  }
+}

@@ -56,7 +56,7 @@ The project is engineered to work seamlessly whether hosted at a subpath (like G
 By default, the `npm run build` command applies a `pathPrefix` of `/cdif4eosc-www/`. This ensures all internal links, images, and stylesheets resolve correctly at `codata.github.io/cdif4eosc-www/`.
 
 ### Custom Domain (Root)
-If you move the site to a root domain (e.g., `ddi4eosc.eu`), you have two options:
+If you move the site to a root domain (e.g., `cdif4eosc.eu`), you have two options:
 1. **Command Line**: Run the build without the environment variable: `npx @11ty/eleventy`.
 2. **Config Change**: Update `.eleventy.js` to set `pathPrefix: "/"` even in production.
 

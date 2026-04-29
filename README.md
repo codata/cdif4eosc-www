@@ -2,6 +2,8 @@
 
 A high-performance, premium professional portal for the **CDIF4EOSC** (Cross-Domain Interoperability Framework for EOSC) initiative.
 
+**Live Site:** [codata.github.io/cdif4eosc-www](https://codata.github.io/cdif4eosc-www/)
+
 ## 🌟 Overview
 
 This site is built using **Eleventy (11ty)** and adheres to the **"Scholarly Luminary"** design system. It combines institutional authority with technical precision, featuring:

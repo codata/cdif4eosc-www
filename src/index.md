@@ -23,12 +23,15 @@ description: Developing and implementing the Cross-Domain Interoperability Frame
   <div class="container">
     <div class="content-grid">
       <div class="drop-cap">
-        <p>The CDIF4EOSC project is funded by the European Commission under the Horizon Europe programme (Grant Agreement 101137021). It is a three-year project which began in January 2024. CDIF4EOSC builds on the work of the WorldFAIR project, and on its primary output, the Cross-Domain Interoperability Framework (CDIF).</p>
+        <p>CODATA is very pleased to communicate that we are well-advanced with the Grant Agreement Preparation process with the European Commission for the recently approved proposal CDIF4EOSC: Developing and implementing the Cross-Domain Interoperability Framework for EOSC.</p>
+        <p>The distinct approach of the CDIF4EOSC project is to build on the Cross-Domain Interoperability Framework (CDIF). The project will extend the CDIF recommendations, adding profiles and guidelines, and use case based examples, to form a comprehensive and actionable playbook for FAIR Integration in the European Open Science Cloud (EOSC) and beyond.</p>
         <div class="callout-box">
           <h4>Core Objective</h4>
-          <p>The objective of CDIF4EOSC is to develop CDIF into a production-ready set of guidelines and to implement it within the European Open Science Cloud (EOSC). This will involve working with the EOSC community and with international partners to ensure that CDIF is fit for purpose and that it can be used to support the reuse of data across different domains and infrastructures.</p>
+          <p>Going beyond the original FAIR principles, CDIF4EOSC will develop a FAIR-by-design approach for creating FAIR digital objects. The overarching objective of the project is to enable FAIR integration by developing the CDIF4EOSC Playbook and situating this at the heart of EOSC practices, and fully integrated in the EOSC Federation.</p>
         </div>
-        <p>CDIF is a set of guidelines for using existing, domain-neutral metadata standards together to support the implementation of the FAIR principles, especially for cross-domain research.</p>
+        <p>The project will work closely with three Use Cases on oceans sciences, climate adaptation and safe-and-sustainable by design materials development, develop a suite of AI-assisted FAIRification tools and services and ensure integration with the EOSC Federation, EOSC Nodes and the Common European Data Spaces.</p>
+        <p>The suite of AI-assisted FAIRification tools and services will accelerate FAIRification at scale and have significant benefits for EOSC and the European Research Area. To maximise impact, targeted steps will be taken to implement the project outputs in EOSC Federation Nodes and Common European Data Spaces.</p>
+        <p>The three year project has a total budget of 8M euros and is set to start on 1 June 2026.</p>
       </div>
       <aside id="consortium" class="sidebar-list" style="grid-column: span 1;">
         <h3><span>👥</span> Consortium Partners</h3>

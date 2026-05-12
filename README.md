@@ -2,7 +2,7 @@
 
 A high-performance, premium professional portal for the **CDIF4EOSC** (Cross-Domain Interoperability Framework for EOSC) initiative.
 
-**Live Site:** [codata.github.io/cdif4eosc-www](https://codata.github.io/cdif4eosc-www/)
+**Live Site:** [cdif4eosc.eu](https://cdif4eosc.eu/)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ This site is built using **Eleventy (11ty)** and adheres to the **"Scholarly Lum
 
 - **High-Fidelity Visuals**: Europe-centered dynamic globe, technical grid backgrounds, and glassmorphic UI components.
 - **Modern Tech Stack**: 11ty, Vanilla CSS (Design Tokens), and Nunjucks templating.
-- **Multi-Environment Portability**: Built-in support for both subpath (GitHub Pages) and root-level hosting.
+- **Custom Domain**: Hosted on GitHub Pages with custom domain `cdif4eosc.eu`.
 - **Automated CI/CD**: Integrated GitHub Actions for zero-touch deployment.
 
 ---
@@ -37,14 +37,14 @@ This site is built using **Eleventy (11ty)** and adheres to the **"Scholarly Lum
    ```bash
    npm start
    ```
-   The site will be available at `http://localhost:8080`. Local development runs at the **root path (/)**.
+   The site will be available at `http://localhost:8080`.
 
 ### Production Build
-To build the site for production (e.g., for GitHub Pages deployment):
+To build the site for production:
 ```bash
 npm run build
 ```
-This command automatically sets `ELEVENTY_ENV=production`, which applies the necessary path prefix for subpath hosting.
+This command builds the site for deployment to GitHub Pages at `cdif4eosc.eu`.
 
 ---
 

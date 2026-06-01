@@ -10,7 +10,7 @@ description: Developing and implementing the Cross-Domain Interoperability Frame
       <div>
         <span class="subtitle">Horizon Europe Initiative</span>
         <h1>CDIF4EOSC</h1>
-        <p class="lead">Cross-Domain Interoperability Framework for the European Open Science Cloud.</p>
+        <p class="lead">CDIF4EOSC: Developing and implementing the Cross-Domain Interoperability Framework for EOSC</p>
       </div>
       <div style="text-align: right;">
         <img src="{{ "/assets/images/cdif4eosc_globe_data_glow.png" | url }}" alt="CDIF4EOSC European Data Interoperability Globe" style="max-width: 100%; border-radius: 20px; box-shadow: 0 30px 60px rgba(0,0,0,0.2);">
@@ -23,8 +23,8 @@ description: Developing and implementing the Cross-Domain Interoperability Frame
   <div class="container">
     <div class="content-grid">
       <div class="drop-cap">
-        <p>CODATA is very pleased to communicate that we are well-advanced with the Grant Agreement Preparation process with the European Commission for the recently approved proposal CDIF4EOSC: Developing and implementing the Cross-Domain Interoperability Framework for EOSC.</p>
-        <p>The distinct approach of the CDIF4EOSC project is to build on the Cross-Domain Interoperability Framework (CDIF). The project will extend the CDIF recommendations, adding profiles and guidelines, and use case based examples, to form a comprehensive and actionable playbook for FAIR Integration in the European Open Science Cloud (EOSC) and beyond.</p>
+        <p>The CDIF4EOSC project, coordinated by <a href="https://codata.org/" target="_blank">CODATA</a>, started on 1 June 2026!</p>
+        <p>The distinct approach of the CDIF4EOSC project is to build on the <a href="https://cdif.org/" target="_blank">Cross-Domain Interoperability Framework (CDIF)</a>. The project will extend the CDIF recommendations, adding profiles and guidelines, and use case based examples, to form a comprehensive and actionable playbook for FAIR Integration in the European Open Science Cloud (EOSC) and beyond.</p>
         <div class="callout-box">
           <h4>Core Objective</h4>
           <p>Going beyond the original FAIR principles, CDIF4EOSC will develop a FAIR-by-design approach for creating FAIR digital objects. The overarching objective of the project is to enable FAIR integration by developing the CDIF4EOSC Playbook and situating this at the heart of EOSC practices, and fully integrated in the EOSC Federation.</p>

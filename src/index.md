@@ -26,7 +26,7 @@ description: Developing and implementing the Cross-Domain Interoperability Frame
         <p>The CDIF4EOSC project, coordinated by <a href="https://codata.org/" target="_blank">CODATA</a>, started on 1 June 2026!</p>
         <p>The distinct approach of the CDIF4EOSC project is to build on the <a href="https://cdif.org/" target="_blank">Cross-Domain Interoperability Framework (CDIF)</a>. The project will extend the CDIF recommendations, adding profiles and guidelines, and use case based examples, to form a comprehensive and actionable playbook for FAIR Integration in the European Open Science Cloud (EOSC) and beyond.</p>
         <div class="callout-box">
-          <h4>Core Objective</h4>
+          <h4>Core Objectives</h4>
           <p>Going beyond the original FAIR principles, CDIF4EOSC will develop a FAIR-by-design approach for creating FAIR digital objects. The overarching objective of the project is to enable FAIR integration by developing the CDIF4EOSC Playbook and situating this at the heart of EOSC practices, and fully integrated in the EOSC Federation.</p>
         </div>
         <p>The project will work closely with three Use Cases on oceans sciences, climate adaptation and safe-and-sustainable by design materials development, develop a suite of AI-assisted FAIRification tools and services and ensure integration with the EOSC Federation, EOSC Nodes and the Common European Data Spaces.</p>
